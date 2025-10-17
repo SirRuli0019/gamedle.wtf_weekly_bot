@@ -7,7 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import os
 import json
-
+#Yo le piqué pa que lo haga
 def main():
     print("=== Gamedle Bot ===")
 
